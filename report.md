@@ -5,3 +5,4 @@ what I have done in the lab:
 
 All in all the lab was aimed at familiarising myself with git and github, knowing the difference and making sure I know how to work with the.
 since its a required skill for all the developers.
+
